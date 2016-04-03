@@ -16,9 +16,7 @@ upon have been set.
 
 You can start uberbot locally by running:
 
-	```
     % HUBOT_SLACK_TOKEN=<slack_token> UBER_SERVER_TOKEN=<uber_server_token> ./bin/hubot --adapter slack
-    ```
 
 You'll see some start up output and a prompt:
 
@@ -58,4 +56,4 @@ UBER_CLIENT_SECRET : client Secret for Uber
 
 ### LICENSE
 
-(MIT)[LICENSE.txt]
+[MIT](LICENSE.txt)
